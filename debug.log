@@ -1,0 +1,328 @@
+
+
+================= Starting Debug Log (2023-09-11 00:00:52.349) =================
+[2023-09-11 00:00:52.843][CONSOLE:LOG] [BetterDiscord] [DebugLogs] Disabled
+
+
+================= Ending Debug Log (2023-09-11 00:00:52.846) =================
+
+================= Starting Debug Log (2023-09-11 01:06:19.571) =================
+[2023-09-11 01:10:46.402][CONSOLE:WARN] Window state not initialized window-1
+
+
+================= Starting Debug Log (2023-09-11 01:10:52.017) =================
+[2023-09-11 01:10:52.017][CONSOLE:LOG] [BetterDiscord] [Debugger] Enabled
+[2023-09-11 01:10:52.017][CONSOLE:LOG] [BetterDiscord] [DevTools] Enabled
+[2023-09-11 01:10:52.017][CONSOLE:LOG] [BetterDiscord] [InspectElementHotkey] Enabled
+[2023-09-11 01:10:52.018][CONSOLE:LOG] [BetterDiscord] [ReactDevTools] Enabled
+[2023-09-11 01:10:52.018][CONSOLE:LOG] [BetterDiscord] [StopDevToolsWarning] Enabled
+[2023-09-11 01:10:52.018][CONSOLE:LOG] [BetterDiscord] [Startup] Loading Plugins
+[2023-09-11 01:10:52.038][CONSOLE:LOG] [BDFDB] (v3.3.5) Loading Library
+[2023-09-11 01:10:52.071][CONSOLE:LOG] [BetterDiscord] [PluginManager] Starting to watch plugin addons.
+[2023-09-11 01:10:52.072][CONSOLE:LOG] [BetterDiscord] [Startup] Loading Themes
+[2023-09-11 01:10:52.072][CONSOLE:LOG] [BetterDiscord] [ThemeManager] Starting to watch theme addons.
+[2023-09-11 01:10:52.073][CONSOLE:LOG] [BetterDiscord] [Startup] Initializing Updater
+[2023-09-11 01:10:52.075][CONSOLE:LOG] [BetterDiscord] [Startup] Removing Loading Icon
+[2023-09-11 01:10:52.075][CONSOLE:LOG] [BetterDiscord] [Startup] Collecting Startup Errors
+[2023-09-11 01:10:52.627][CONSOLE:LOG] [Flux] Slow dispatch on GAMES_DATABASE_UPDATE: 473.5ms
+[2023-09-11 01:10:53.714][CONSOLE:ERROR] Menu API only allows Items and groups of Items as children. Received function $l(e){return null} (object) instead
+Error: Menu API only allows Items and groups of Items as children. Received function $l(e){return null} (object) instead
+    at https://discord.com/assets/5c193e4366261ef233e1.js:2999:258
+    at Array.reduce (<anonymous>)
+    at So (https://discord.com/assets/5c193e4366261ef233e1.js:2998:14)
+    at No (https://discord.com/assets/5c193e4366261ef233e1.js:3002:142)
+    at eval (betterdiscord://plugins/0BDFDB.plugin.js:2901:21)
+    at Sa (https://discord.com/assets/5c193e4366261ef233e1.js:1804:54)
+    at gu (https://discord.com/assets/5c193e4366261ef233e1.js:1858:146)
+    at Ic (https://discord.com/assets/5c193e4366261ef233e1.js:1851:89)
+    at mc (https://discord.com/assets/5c193e4366261ef233e1.js:1851:17)
+    at hc (https://discord.com/assets/5c193e4366261ef233e1.js:1850:867)
+    at uc (https://discord.com/assets/5c193e4366261ef233e1.js:1847:983)
+    at Fi (https://discord.com/assets/5c193e4366261ef233e1.js:1787:577)
+    at lc (https://discord.com/assets/5c193e4366261ef233e1.js:1848:498)
+    at https://discord.com/assets/5c193e4366261ef233e1.js:1867:522
+    at el (https://discord.com/assets/5c193e4366261ef233e1.js:1867:561)
+    at t.render (https://discord.com/assets/5c193e4366261ef233e1.js:1871:205)
+    at MyReact.render (betterdiscord://plugins/0BDFDB.plugin.js:2885:40)
+    at MyReact.hookCall (betterdiscord://plugins/0BDFDB.plugin.js:2900:23)
+    at loadLibrary (betterdiscord://plugins/0BDFDB.plugin.js:8019:60)
+    at parseData (betterdiscord://plugins/0BDFDB.plugin.js:1175:24)
+    at parseCSS (betterdiscord://plugins/0BDFDB.plugin.js:1137:122)
+    at requestLibraryData (betterdiscord://plugins/0BDFDB.plugin.js:1180:51)
+    at eval (betterdiscord://plugins/0BDFDB.plugin.js:1127:7)
+    at args.<computed> (betterdiscord://plugins/0BDFDB.plugin.js:202:20)
+    at Function.<anonymous> (betterdiscord/renderer.js:4:329975)
+[2023-09-11 01:10:54.724][CONSOLE:LOG] [BDFDB] (v3.3.5) Finished loading Library
+[2023-09-11 01:10:54.727][CONSOLE:LOG] [PluginRepo] (v2.5.1) has been started
+[2023-09-11 01:10:54.792][CONSOLE:LOG] [Translator] (v2.5.8) has been started
+[2023-09-11 01:10:57.224][CONSOLE:LOG] [PluginRepo] (v2.5.1) Finished fetching Plugins
+[2023-09-11 01:11:05.238][CONSOLE:INFO] [FetchBlockedDomain] Fetching blocked domain list
+[2023-09-11 01:11:05.241][CONSOLE:INFO] [FetchBlockedDomain] Server revision: 143, Client revision: 143
+[2023-09-11 01:11:13.873][CONSOLE:INFO] [RTCLatencyTestManager] RTC cached preferred region is seattle
+[2023-09-11 01:11:29.991][CONSOLE:LOG] [discord_protos.discord_users.v1.FrecencyUserSettings] Loading proto
+[2023-09-11 01:11:29.994][CONSOLE:WARN] [DEPRECATED] Please use `subscribeWithSelector` middleware
+[2023-09-11 01:11:30.093][CONSOLE:WARN] [DEPRECATED] Please use `subscribeWithSelector` middleware
+[2023-09-11 01:11:30.093][CONSOLE:WARN] [DEPRECATED] Please use `subscribeWithSelector` middleware
+[2023-09-11 01:11:30.093][CONSOLE:WARN] [DEPRECATED] Please use `subscribeWithSelector` middleware
+[2023-09-11 01:11:30.093][CONSOLE:WARN] [DEPRECATED] Please use `subscribeWithSelector` middleware
+[2023-09-11 01:11:30.093][CONSOLE:WARN] [DEPRECATED] Please use `subscribeWithSelector` middleware
+[2023-09-11 01:11:30.416][CONSOLE:WARN] Unable to determine render window for element {"location":{"ancestorOrigins":{},"href":"https://discord.com/channels/643684572428500992/643684707237888001","origin":"https://discord.com","protocol":"https:","host":"discord.com","hostname":"discord.com","port":"","pathname":"/channels/643684572428500992/643684707237888001","search":"","hash":""},"_reactListeninganobnme92mv":true,"__sentry_instrumentation_handlers__":{"click":{"refCount":3},"keypress":{"refCount":2}}}
+[2023-09-11 01:28:22.377][CONSOLE:LOG] [MessageActionCreators] Fetching messages for 806003045552095233 between undefined and undefined. jump={"jumpType":"ANIMATED"}
+[2023-09-11 01:28:22.743][CONSOLE:LOG] [MessageActionCreators] Fetched 50 messages for 806003045552095233 isBefore:false isAfter:false
+[2023-09-11 01:28:23.635][CONSOLE:LOG] [MessageActionCreators] Fetching messages for 1021581513176915968 between undefined and undefined. jump={"jumpType":"ANIMATED"}
+[2023-09-11 01:28:23.731][CONSOLE:LOG] [Routing/Utils] transitionTo - Transitioning to /channels/767102607210184714/1021581513176915968
+[2023-09-11 01:28:24.091][CONSOLE:LOG] [MessageActionCreators] Fetched 15 messages for 1021581513176915968 isBefore:false isAfter:false
+[2023-09-11 01:28:27.361][CONSOLE:LOG] [MessageActionCreators] Fetching messages for 767102607210184717 between undefined and undefined. jump={"isHighlight":false,"jumpType":"ANIMATED"}
+[2023-09-11 01:28:27.450][CONSOLE:LOG] [Routing/Utils] transitionTo - Transitioning to /channels/767102607210184714/767102607210184717
+[2023-09-11 01:28:27.587][CONSOLE:LOG] [MessageActionCreators] Fetched 50 messages for 767102607210184717 isBefore:false isAfter:false
+[2023-09-11 01:28:32.623][CONSOLE:LOG] [MessageActionCreators] Fetching messages for 1063356969274069032 between undefined and undefined. jump={"jumpType":"ANIMATED"}
+[2023-09-11 01:28:32.708][CONSOLE:LOG] [Routing/Utils] transitionTo - Transitioning to /channels/782736845775175691/1063356969274069032
+[2023-09-11 01:28:32.940][CONSOLE:LOG] [MessageActionCreators] Fetched 37 messages for 1063356969274069032 isBefore:false isAfter:false
+[2023-09-11 01:28:34.163][CONSOLE:LOG] [MessageActionCreators] Fetching messages for 1063357001599561799 between undefined and undefined. jump={"isHighlight":false,"jumpType":"ANIMATED"}
+[2023-09-11 01:28:34.239][CONSOLE:LOG] [Routing/Utils] transitionTo - Transitioning to /channels/782736845775175691/1063357001599561799
+[2023-09-11 01:28:34.540][CONSOLE:LOG] [MessageActionCreators] Fetched 50 messages for 1063357001599561799 isBefore:false isAfter:false
+[2023-09-11 01:28:36.893][CONSOLE:LOG] [MessageActionCreators] Fetching messages for 817933460978270209 between undefined and undefined. jump={"jumpType":"ANIMATED"}
+[2023-09-11 01:28:36.960][CONSOLE:LOG] [Routing/Utils] transitionTo - Transitioning to /channels/800474687209078784/817933460978270209
+[2023-09-11 01:28:37.229][CONSOLE:LOG] [MessageActionCreators] Fetched 50 messages for 817933460978270209 isBefore:false isAfter:false
+[2023-09-11 01:28:39.075][CONSOLE:LOG] [MessageActionCreators] Fetching messages for 854489590378135572 between undefined and undefined. jump={"isHighlight":false,"jumpType":"ANIMATED"}
+[2023-09-11 01:28:39.154][CONSOLE:LOG] [Routing/Utils] transitionTo - Transitioning to /channels/800474687209078784/854489590378135572
+[2023-09-11 01:28:39.336][CONSOLE:LOG] [MessageActionCreators] Fetched 50 messages for 854489590378135572 isBefore:false isAfter:false
+[2023-09-11 01:30:10.888][CONSOLE:LOG] [MessageActionCreators] Fetching messages for 610411956570030111 between undefined and undefined. jump={"jumpType":"ANIMATED"}
+[2023-09-11 01:30:10.902][CONSOLE:LOG] [Routing/Utils] transitionTo - Transitioning to /channels/166368546060894208/610411956570030111
+[2023-09-11 01:30:11.213][CONSOLE:LOG] [MessageActionCreators] Fetched 50 messages for 610411956570030111 isBefore:false isAfter:false
+[2023-09-11 01:30:41.530][CONSOLE:LOG] [MessageQueue] Draining Message Queue with:  {"type":0,"message":{"channelId":"610411956570030111","content":"lol i got banned from this image to 3d modeler for trying to use belle delphines body","nonce":"1150604296677490688","tts":false,"flags":0}}
+[2023-09-11 01:30:51.517][CONSOLE:LOG] [MessageQueue] Draining Message Queue with:  {"type":0,"message":{"channelId":"610411956570030111","content":"they shouldve made it more clear in the ruels","nonce":"1150604338582781952","tts":false,"flags":0}}
+[2023-09-11 01:41:17.721][CONSOLE:LOG] [BetterDiscord] [ReactDevTools] Disabled
+[2023-09-11 01:41:20.640][CONSOLE:WARN] Window state not initialized window-1
+
+
+================= Starting Debug Log (2023-09-11 01:41:28.560) =================
+[2023-09-11 01:41:28.560][CONSOLE:LOG] [BetterDiscord] [Debugger] Enabled
+[2023-09-11 01:41:28.560][CONSOLE:LOG] [BetterDiscord] [DevTools] Enabled
+[2023-09-11 01:41:28.560][CONSOLE:LOG] [BetterDiscord] [InspectElementHotkey] Enabled
+[2023-09-11 01:41:28.560][CONSOLE:LOG] [BetterDiscord] [StopDevToolsWarning] Enabled
+[2023-09-11 01:41:28.561][CONSOLE:LOG] [BetterDiscord] [Startup] Loading Plugins
+[2023-09-11 01:41:28.573][CONSOLE:LOG] [BDFDB] (v3.3.5) Loading Library
+[2023-09-11 01:41:28.595][CONSOLE:LOG] [BetterDiscord] [PluginManager] Starting to watch plugin addons.
+[2023-09-11 01:41:28.596][CONSOLE:LOG] [BetterDiscord] [Startup] Loading Themes
+[2023-09-11 01:41:28.596][CONSOLE:LOG] [BetterDiscord] [ThemeManager] Starting to watch theme addons.
+[2023-09-11 01:41:28.597][CONSOLE:LOG] [BetterDiscord] [Startup] Initializing Updater
+[2023-09-11 01:41:28.599][CONSOLE:LOG] [BetterDiscord] [Startup] Removing Loading Icon
+[2023-09-11 01:41:28.599][CONSOLE:LOG] [BetterDiscord] [Startup] Collecting Startup Errors
+[2023-09-11 01:41:29.274][CONSOLE:LOG] [Flux] Slow dispatch on GAMES_DATABASE_UPDATE: 471.09999999403954ms
+[2023-09-11 01:41:30.132][CONSOLE:ERROR] Menu API only allows Items and groups of Items as children. Received function $l(e){return null} (object) instead
+Error: Menu API only allows Items and groups of Items as children. Received function $l(e){return null} (object) instead
+    at https://discord.com/assets/5c193e4366261ef233e1.js:2999:258
+    at Array.reduce (<anonymous>)
+    at So (https://discord.com/assets/5c193e4366261ef233e1.js:2998:14)
+    at No (https://discord.com/assets/5c193e4366261ef233e1.js:3002:142)
+    at eval (betterdiscord://plugins/0BDFDB.plugin.js:2901:21)
+    at Sa (https://discord.com/assets/5c193e4366261ef233e1.js:1804:54)
+    at gu (https://discord.com/assets/5c193e4366261ef233e1.js:1858:146)
+    at Ic (https://discord.com/assets/5c193e4366261ef233e1.js:1851:89)
+    at mc (https://discord.com/assets/5c193e4366261ef233e1.js:1851:17)
+    at hc (https://discord.com/assets/5c193e4366261ef233e1.js:1850:867)
+    at uc (https://discord.com/assets/5c193e4366261ef233e1.js:1847:983)
+    at Fi (https://discord.com/assets/5c193e4366261ef233e1.js:1787:577)
+    at lc (https://discord.com/assets/5c193e4366261ef233e1.js:1848:498)
+    at https://discord.com/assets/5c193e4366261ef233e1.js:1867:522
+    at el (https://discord.com/assets/5c193e4366261ef233e1.js:1867:561)
+    at t.render (https://discord.com/assets/5c193e4366261ef233e1.js:1871:205)
+    at MyReact.render (betterdiscord://plugins/0BDFDB.plugin.js:2885:40)
+    at MyReact.hookCall (betterdiscord://plugins/0BDFDB.plugin.js:2900:23)
+    at loadLibrary (betterdiscord://plugins/0BDFDB.plugin.js:8019:60)
+    at parseData (betterdiscord://plugins/0BDFDB.plugin.js:1175:24)
+    at parseCSS (betterdiscord://plugins/0BDFDB.plugin.js:1137:122)
+    at requestLibraryData (betterdiscord://plugins/0BDFDB.plugin.js:1180:51)
+    at eval (betterdiscord://plugins/0BDFDB.plugin.js:1127:7)
+    at args.<computed> (betterdiscord://plugins/0BDFDB.plugin.js:202:20)
+    at Function.<anonymous> (betterdiscord/renderer.js:4:329975)
+[2023-09-11 01:41:31.107][CONSOLE:LOG] [BDFDB] (v3.3.5) Finished loading Library
+[2023-09-11 01:41:31.108][CONSOLE:LOG] [PluginRepo] (v2.5.1) has been started
+[2023-09-11 01:41:31.167][CONSOLE:LOG] [Translator] (v2.5.8) has been started
+[2023-09-11 01:41:31.945][CONSOLE:LOG] [Routing/Utils] transitionTo - Transitioning to /channels/166368546060894208/610411956570030111
+[2023-09-11 01:41:32.543][CONSOLE:LOG] Deprecated as of 10.7.0. highlight(lang, code, ...args) has been deprecated.
+[2023-09-11 01:41:32.543][CONSOLE:LOG] Deprecated as of 10.7.0. Please use highlight(code, options) instead.
+https://github.com/highlightjs/highlight.js/issues/2277
+[2023-09-11 01:41:33.941][CONSOLE:LOG] [PluginRepo] (v2.5.1) Finished fetching Plugins
+[2023-09-11 01:41:41.674][CONSOLE:INFO] [FetchBlockedDomain] Fetching blocked domain list
+[2023-09-11 01:41:41.752][CONSOLE:INFO] [FetchBlockedDomain] Server revision: 144, Client revision: 143
+[2023-09-11 01:41:41.841][CONSOLE:INFO] [FetchBlockedDomain] Retrieved delta, domains added: 14, domains removed: 0
+[2023-09-11 01:41:41.848][CONSOLE:INFO] [FetchBlockedDomain] Blocked domains list length: 28121 before update
+[2023-09-11 01:41:41.848][CONSOLE:INFO] [FetchBlockedDomain] Delta applied successfully
+[2023-09-11 01:41:41.848][CONSOLE:INFO] [FetchBlockedDomain] Blocked domains list length: 28135 after update
+[2023-09-11 01:41:42.568][CONSOLE:ERROR] [PluginManager] SpeechToTextPlugin v0.0.1 could not be started.
+
+ recognition is not defined
+ReferenceError: recognition is not defined
+    at SpeechToTextPlugin.stop (betterdiscord://plugins/stt.plugin.js:61:5)
+    at M.stopPlugin (betterdiscord/renderer.js:4:36801)
+    at M.stopAddon (betterdiscord/renderer.js:4:36109)
+    at M.disableAddon (betterdiscord/renderer.js:4:9783)
+    at M.toggleAddon (betterdiscord/renderer.js:4:9848)
+    at M.togglePlugin (betterdiscord/renderer.js:4:33361)
+    at betterdiscord/renderer.js:4:86539
+    at betterdiscord/renderer.js:4:80669
+    at Object.Me (https://discord.com/assets/5c193e4366261ef233e1.js:1756:509)
+    at je (https://discord.com/assets/5c193e4366261ef233e1.js:1756:663)
+    at https://discord.com/assets/5c193e4366261ef233e1.js:1777:416
+    at Ur (https://discord.com/assets/5c193e4366261ef233e1.js:1777:513)
+    at Gr (https://discord.com/assets/5c193e4366261ef233e1.js:1777:927)
+    at https://discord.com/assets/5c193e4366261ef233e1.js:1783:415
+    at cc (https://discord.com/assets/5c193e4366261ef233e1.js:1848:267)
+    at Le (https://discord.com/assets/5c193e4366261ef233e1.js:1755:624)
+    at Yr (https://discord.com/assets/5c193e4366261ef233e1.js:1779:232)
+    at Kt (https://discord.com/assets/5c193e4366261ef233e1.js:1762:858)
+    at Zt (https://discord.com/assets/5c193e4366261ef233e1.js:1762:642)
+    at HTMLDivElement.n (https://discord.com/assets/3ec345178a3bd5d85874.js:566:241)
+[2023-09-11 01:41:46.649][CONSOLE:INFO] [RTCLatencyTestManager] RTC cached preferred region is seattle
+[2023-09-11 01:41:47.788][CONSOLE:ERROR] [PluginManager] SpeechToTextPlugin v0.0.1 could not be started.
+
+ recognition is not defined
+ReferenceError: recognition is not defined
+    at SpeechToTextPlugin.stop (betterdiscord://plugins/stt.plugin.js:61:5)
+    at M.stopPlugin (betterdiscord/renderer.js:4:36801)
+    at M.stopAddon (betterdiscord/renderer.js:4:36109)
+    at M.disableAddon (betterdiscord/renderer.js:4:9783)
+    at M.toggleAddon (betterdiscord/renderer.js:4:9848)
+    at M.togglePlugin (betterdiscord/renderer.js:4:33361)
+    at betterdiscord/renderer.js:4:86539
+    at betterdiscord/renderer.js:4:80669
+    at Object.Me (https://discord.com/assets/5c193e4366261ef233e1.js:1756:509)
+    at je (https://discord.com/assets/5c193e4366261ef233e1.js:1756:663)
+    at https://discord.com/assets/5c193e4366261ef233e1.js:1777:416
+    at Ur (https://discord.com/assets/5c193e4366261ef233e1.js:1777:513)
+    at Gr (https://discord.com/assets/5c193e4366261ef233e1.js:1777:927)
+    at https://discord.com/assets/5c193e4366261ef233e1.js:1783:415
+    at cc (https://discord.com/assets/5c193e4366261ef233e1.js:1848:267)
+    at Le (https://discord.com/assets/5c193e4366261ef233e1.js:1755:624)
+    at Yr (https://discord.com/assets/5c193e4366261ef233e1.js:1779:232)
+    at Kt (https://discord.com/assets/5c193e4366261ef233e1.js:1762:858)
+    at Zt (https://discord.com/assets/5c193e4366261ef233e1.js:1762:642)
+    at HTMLDivElement.n (https://discord.com/assets/3ec345178a3bd5d85874.js:566:241)
+[2023-09-11 01:42:09.542][CONSOLE:WARN] Window state not initialized window-1
+
+
+================= Starting Debug Log (2023-09-11 01:42:14.778) =================
+[2023-09-11 01:42:14.779][CONSOLE:LOG] [BetterDiscord] [Debugger] Enabled
+[2023-09-11 01:42:14.779][CONSOLE:LOG] [BetterDiscord] [DevTools] Enabled
+[2023-09-11 01:42:14.780][CONSOLE:LOG] [BetterDiscord] [InspectElementHotkey] Enabled
+[2023-09-11 01:42:14.780][CONSOLE:LOG] [BetterDiscord] [StopDevToolsWarning] Enabled
+[2023-09-11 01:42:14.780][CONSOLE:LOG] [BetterDiscord] [Startup] Loading Plugins
+[2023-09-11 01:42:14.800][CONSOLE:LOG] [BDFDB] (v3.3.5) Loading Library
+[2023-09-11 01:42:14.825][CONSOLE:LOG] [BetterDiscord] [PluginManager] Starting to watch plugin addons.
+[2023-09-11 01:42:14.826][CONSOLE:LOG] [BetterDiscord] [Startup] Loading Themes
+[2023-09-11 01:42:14.827][CONSOLE:LOG] [BetterDiscord] [ThemeManager] Starting to watch theme addons.
+[2023-09-11 01:42:14.828][CONSOLE:LOG] [BetterDiscord] [Startup] Initializing Updater
+[2023-09-11 01:42:14.829][CONSOLE:LOG] [BetterDiscord] [Startup] Removing Loading Icon
+[2023-09-11 01:42:14.830][CONSOLE:LOG] [BetterDiscord] [Startup] Collecting Startup Errors
+[2023-09-11 01:42:15.370][CONSOLE:LOG] [Flux] Slow dispatch on GAMES_DATABASE_UPDATE: 478.20000000298023ms
+[2023-09-11 01:42:15.979][CONSOLE:ERROR] Menu API only allows Items and groups of Items as children. Received function $l(e){return null} (object) instead
+Error: Menu API only allows Items and groups of Items as children. Received function $l(e){return null} (object) instead
+    at https://discord.com/assets/5c193e4366261ef233e1.js:2999:258
+    at Array.reduce (<anonymous>)
+    at So (https://discord.com/assets/5c193e4366261ef233e1.js:2998:14)
+    at No (https://discord.com/assets/5c193e4366261ef233e1.js:3002:142)
+    at eval (betterdiscord://plugins/0BDFDB.plugin.js:2901:21)
+    at Sa (https://discord.com/assets/5c193e4366261ef233e1.js:1804:54)
+    at gu (https://discord.com/assets/5c193e4366261ef233e1.js:1858:146)
+    at Ic (https://discord.com/assets/5c193e4366261ef233e1.js:1851:89)
+    at mc (https://discord.com/assets/5c193e4366261ef233e1.js:1851:17)
+    at hc (https://discord.com/assets/5c193e4366261ef233e1.js:1850:867)
+    at uc (https://discord.com/assets/5c193e4366261ef233e1.js:1847:983)
+    at Fi (https://discord.com/assets/5c193e4366261ef233e1.js:1787:577)
+    at lc (https://discord.com/assets/5c193e4366261ef233e1.js:1848:498)
+    at https://discord.com/assets/5c193e4366261ef233e1.js:1867:522
+    at el (https://discord.com/assets/5c193e4366261ef233e1.js:1867:561)
+    at t.render (https://discord.com/assets/5c193e4366261ef233e1.js:1871:205)
+    at MyReact.render (betterdiscord://plugins/0BDFDB.plugin.js:2885:40)
+    at MyReact.hookCall (betterdiscord://plugins/0BDFDB.plugin.js:2900:23)
+    at loadLibrary (betterdiscord://plugins/0BDFDB.plugin.js:8019:60)
+    at parseData (betterdiscord://plugins/0BDFDB.plugin.js:1175:24)
+    at parseCSS (betterdiscord://plugins/0BDFDB.plugin.js:1137:122)
+    at requestLibraryData (betterdiscord://plugins/0BDFDB.plugin.js:1180:51)
+    at eval (betterdiscord://plugins/0BDFDB.plugin.js:1127:7)
+    at args.<computed> (betterdiscord://plugins/0BDFDB.plugin.js:202:20)
+    at Function.<anonymous> (betterdiscord/renderer.js:4:329975)
+[2023-09-11 01:42:16.976][CONSOLE:LOG] [BDFDB] (v3.3.5) Finished loading Library
+[2023-09-11 01:42:16.978][CONSOLE:LOG] [PluginRepo] (v2.5.1) has been started
+[2023-09-11 01:42:17.044][CONSOLE:LOG] [Translator] (v2.5.8) has been started
+[2023-09-11 01:42:19.492][CONSOLE:LOG] [PluginRepo] (v2.5.1) Finished fetching Plugins
+[2023-09-11 01:42:19.493][CONSOLE:INFO] [RTCLatencyTestManager] RTC cached preferred region is seattle
+[2023-09-11 01:42:27.541][CONSOLE:INFO] [FetchBlockedDomain] Fetching blocked domain list
+[2023-09-11 01:42:27.544][CONSOLE:INFO] [FetchBlockedDomain] Server revision: 144, Client revision: 144
+[2023-09-11 01:42:43.134][CONSOLE:ERROR] [PluginManager] SpeechToTextPlugin v0.0.1 could not be started.
+
+ recognition is not defined
+ReferenceError: recognition is not defined
+    at SpeechToTextPlugin.stop (betterdiscord://plugins/stt.plugin.js:61:5)
+    at M.stopPlugin (betterdiscord/renderer.js:4:36801)
+    at M.stopAddon (betterdiscord/renderer.js:4:36109)
+    at M.disableAddon (betterdiscord/renderer.js:4:9783)
+    at M.toggleAddon (betterdiscord/renderer.js:4:9848)
+    at M.togglePlugin (betterdiscord/renderer.js:4:33361)
+    at betterdiscord/renderer.js:4:86539
+    at betterdiscord/renderer.js:4:80669
+    at Object.Me (https://discord.com/assets/5c193e4366261ef233e1.js:1756:509)
+    at je (https://discord.com/assets/5c193e4366261ef233e1.js:1756:663)
+    at https://discord.com/assets/5c193e4366261ef233e1.js:1777:416
+    at Ur (https://discord.com/assets/5c193e4366261ef233e1.js:1777:513)
+    at Gr (https://discord.com/assets/5c193e4366261ef233e1.js:1777:927)
+    at https://discord.com/assets/5c193e4366261ef233e1.js:1783:415
+    at cc (https://discord.com/assets/5c193e4366261ef233e1.js:1848:267)
+    at Le (https://discord.com/assets/5c193e4366261ef233e1.js:1755:624)
+    at Yr (https://discord.com/assets/5c193e4366261ef233e1.js:1779:232)
+    at Kt (https://discord.com/assets/5c193e4366261ef233e1.js:1762:858)
+    at Zt (https://discord.com/assets/5c193e4366261ef233e1.js:1762:642)
+    at HTMLDivElement.n (https://discord.com/assets/3ec345178a3bd5d85874.js:566:241)
+[2023-09-11 01:45:32.505][CONSOLE:WARN] Window state not initialized window-1
+
+
+================= Starting Debug Log (2023-09-11 01:45:37.617) =================
+[2023-09-11 01:45:37.618][CONSOLE:LOG] [BetterDiscord] [Debugger] Enabled
+[2023-09-11 01:45:37.618][CONSOLE:LOG] [BetterDiscord] [DevTools] Enabled
+[2023-09-11 01:45:37.618][CONSOLE:LOG] [BetterDiscord] [InspectElementHotkey] Enabled
+[2023-09-11 01:45:37.618][CONSOLE:LOG] [BetterDiscord] [StopDevToolsWarning] Enabled
+[2023-09-11 01:45:37.619][CONSOLE:LOG] [BetterDiscord] [Startup] Loading Plugins
+[2023-09-11 01:45:37.640][CONSOLE:LOG] [BDFDB] (v3.3.5) Loading Library
+[2023-09-11 01:45:37.668][CONSOLE:LOG] [BetterDiscord] [PluginManager] Starting to watch plugin addons.
+[2023-09-11 01:45:37.669][CONSOLE:LOG] [BetterDiscord] [Startup] Loading Themes
+[2023-09-11 01:45:37.669][CONSOLE:LOG] [BetterDiscord] [ThemeManager] Starting to watch theme addons.
+[2023-09-11 01:45:37.670][CONSOLE:LOG] [BetterDiscord] [Startup] Initializing Updater
+[2023-09-11 01:45:37.672][CONSOLE:LOG] [BetterDiscord] [Startup] Removing Loading Icon
+[2023-09-11 01:45:37.672][CONSOLE:LOG] [BetterDiscord] [Startup] Collecting Startup Errors
+[2023-09-11 01:45:38.249][CONSOLE:LOG] [Flux] Slow dispatch on GAMES_DATABASE_UPDATE: 507.59999999403954ms
+[2023-09-11 01:45:39.096][CONSOLE:ERROR] Menu API only allows Items and groups of Items as children. Received function $l(e){return null} (object) instead
+Error: Menu API only allows Items and groups of Items as children. Received function $l(e){return null} (object) instead
+    at https://discord.com/assets/5c193e4366261ef233e1.js:2999:258
+    at Array.reduce (<anonymous>)
+    at So (https://discord.com/assets/5c193e4366261ef233e1.js:2998:14)
+    at No (https://discord.com/assets/5c193e4366261ef233e1.js:3002:142)
+    at eval (betterdiscord://plugins/0BDFDB.plugin.js:2901:21)
+    at Sa (https://discord.com/assets/5c193e4366261ef233e1.js:1804:54)
+    at gu (https://discord.com/assets/5c193e4366261ef233e1.js:1858:146)
+    at Ic (https://discord.com/assets/5c193e4366261ef233e1.js:1851:89)
+    at mc (https://discord.com/assets/5c193e4366261ef233e1.js:1851:17)
+    at hc (https://discord.com/assets/5c193e4366261ef233e1.js:1850:867)
+    at uc (https://discord.com/assets/5c193e4366261ef233e1.js:1847:983)
+    at Fi (https://discord.com/assets/5c193e4366261ef233e1.js:1787:577)
+    at lc (https://discord.com/assets/5c193e4366261ef233e1.js:1848:498)
+    at https://discord.com/assets/5c193e4366261ef233e1.js:1867:522
+    at el (https://discord.com/assets/5c193e4366261ef233e1.js:1867:561)
+    at t.render (https://discord.com/assets/5c193e4366261ef233e1.js:1871:205)
+    at MyReact.render (betterdiscord://plugins/0BDFDB.plugin.js:2885:40)
+    at MyReact.hookCall (betterdiscord://plugins/0BDFDB.plugin.js:2900:23)
+    at loadLibrary (betterdiscord://plugins/0BDFDB.plugin.js:8019:60)
+    at parseData (betterdiscord://plugins/0BDFDB.plugin.js:1175:24)
+    at parseCSS (betterdiscord://plugins/0BDFDB.plugin.js:1137:122)
+    at requestLibraryData (betterdiscord://plugins/0BDFDB.plugin.js:1180:51)
+    at eval (betterdiscord://plugins/0BDFDB.plugin.js:1127:7)
+    at args.<computed> (betterdiscord://plugins/0BDFDB.plugin.js:202:20)
+    at Function.<anonymous> (betterdiscord/renderer.js:4:329975)
+[2023-09-11 01:45:40.118][CONSOLE:LOG] [BDFDB] (v3.3.5) Finished loading Library
+[2023-09-11 01:45:40.120][CONSOLE:LOG] [PluginRepo] (v2.5.1) has been started
+[2023-09-11 01:45:40.188][CONSOLE:LOG] [Translator] (v2.5.8) has been started
+[2023-09-11 01:45:42.294][CONSOLE:LOG] [PluginRepo] (v2.5.1) Finished fetching Plugins
+[2023-09-11 01:45:50.639][CONSOLE:INFO] [FetchBlockedDomain] Fetching blocked domain list
+[2023-09-11 01:45:50.648][CONSOLE:INFO] [FetchBlockedDomain] Server revision: 144, Client revision: 144
+[2023-09-11 01:45:52.122][CONSOLE:INFO] [RTCLatencyTestManager] RTC cached preferred region is seattle

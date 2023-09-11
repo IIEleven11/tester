@@ -1,0 +1,234 @@
+3ec345178a3bd5d85874.js:537 [Spellchecker] sh is not a valid locale.
+(anonymous) @ 3ec345178a3bd5d85874.js:537
+r.<computed> @ 5c193e4366261ef233e1.js:10321
+(anonymous) @ 5c193e4366261ef233e1.js:5718
+error @ 5c193e4366261ef233e1.js:9979
+g @ 5c193e4366261ef233e1.js:9719
+(anonymous) @ 5c193e4366261ef233e1.js:9722
+(anonymous) @ 5c193e4366261ef233e1.js:9719
+(anonymous) @ 5c193e4366261ef233e1.js:9719
+h @ 5c193e4366261ef233e1.js:9717
+a @ 5c193e4366261ef233e1.js:9717
+Promise.then (async)
+h @ 5c193e4366261ef233e1.js:9717
+a @ 5c193e4366261ef233e1.js:9717
+(anonymous) @ 5c193e4366261ef233e1.js:9717
+(anonymous) @ 5c193e4366261ef233e1.js:9717
+N @ 5c193e4366261ef233e1.js:9722
+(anonymous) @ 5c193e4366261ef233e1.js:9723
+73105 @ 5c193e4366261ef233e1.js:9723
+l @ c4c6ce2ea7c0c1275e49.js:1
+971402 @ 5c193e4366261ef233e1.js:2370
+l @ c4c6ce2ea7c0c1275e49.js:1
+560923 @ 5c193e4366261ef233e1.js:2475
+l @ c4c6ce2ea7c0c1275e49.js:1
+997244 @ 5c193e4366261ef233e1.js:2346
+l @ c4c6ce2ea7c0c1275e49.js:1
+761953 @ 5c193e4366261ef233e1.js:2351
+l @ c4c6ce2ea7c0c1275e49.js:1
+451458 @ 5c193e4366261ef233e1.js:7431
+l @ c4c6ce2ea7c0c1275e49.js:1
+88329 @ 5c193e4366261ef233e1.js:6305
+l @ c4c6ce2ea7c0c1275e49.js:1
+481008 @ 5c193e4366261ef233e1.js:2496
+l @ c4c6ce2ea7c0c1275e49.js:1
+915840 @ 5c193e4366261ef233e1.js:7520
+l @ c4c6ce2ea7c0c1275e49.js:1
+667569 @ 5c193e4366261ef233e1.js:2406
+l @ c4c6ce2ea7c0c1275e49.js:1
+624501 @ 5c193e4366261ef233e1.js:4934
+l @ c4c6ce2ea7c0c1275e49.js:1
+802538 @ 5c193e4366261ef233e1.js:2532
+l @ c4c6ce2ea7c0c1275e49.js:1
+488967 @ 5c193e4366261ef233e1.js:3166
+l @ c4c6ce2ea7c0c1275e49.js:1
+t @ 5c193e4366261ef233e1.js:11264
+(anonymous) @ 5c193e4366261ef233e1.js:11264
+l.O @ c4c6ce2ea7c0c1275e49.js:2
+(anonymous) @ 5c193e4366261ef233e1.js:11264
+c @ c4c6ce2ea7c0c1275e49.js:54
+(anonymous) @ 5c193e4366261ef233e1.js:2
+5c193e4366261ef233e1.js:7 Uncaught (in promise) Error: Cannot find module './notosans-400-normalitalic.woff2'
+    at 5c193e4366261ef233e1.js:7:216
+    at async Promise.all (index 3)
+(anonymous) @ 5c193e4366261ef233e1.js:7
+Promise.then (async)
+(anonymous) @ 5c193e4366261ef233e1.js:5683
+ru @ 5c193e4366261ef233e1.js:1835
+vc @ 5c193e4366261ef233e1.js:1855
+uc @ 5c193e4366261ef233e1.js:1847
+Fi @ 5c193e4366261ef233e1.js:1787
+(anonymous) @ 5c193e4366261ef233e1.js:1854
+Oc @ 5c193e4366261ef233e1.js:1854
+ic @ 5c193e4366261ef233e1.js:1846
+v @ 5c193e4366261ef233e1.js:1963
+C @ 5c193e4366261ef233e1.js:1964
+g.<computed> @ 3ec345178a3bd5d85874.js:108
+m @ 3ec345178a3bd5d85874.js:107
+M @ 3ec345178a3bd5d85874.js:107
+3ec345178a3bd5d85874.js:537 [RPCServer:WSS] Error: listen EADDRINUSE: address already in use 127.0.0.1:6463
+(anonymous) @ 3ec345178a3bd5d85874.js:537
+r.<computed> @ 5c193e4366261ef233e1.js:10321
+(anonymous) @ 5c193e4366261ef233e1.js:5718
+error @ 5c193e4366261ef233e1.js:9979
+(anonymous) @ 8fdae675e4b2ddc870fa.js:1677
+invokeListener @ VM2855 C:\Users\jakem\AppData\Local\Discord\app-1.0.9017\modules\discord_rpc-1\discord_rpc\safeEmitter.js:42
+emit @ VM2855 C:\Users\jakem\AppData\Local\Discord\app-1.0.9017\modules\discord_rpc-1\discord_rpc\safeEmitter.js:61
+(anonymous) @ VM2856 C:\Users\jakem\AppData\Local\Discord\app-1.0.9017\modules\discord_rpc-1\discord_rpc\RPCWebSocket.js:133
+emit @ VM2203 node:events:525
+emitErrorNT @ VM2293 node:net:1459
+processTicksAndRejections @ VM2212 task_queues:83
+VM2203 node:events:491 Uncaught Error: listen EADDRINUSE: address already in use 127.0.0.1:6463
+    at __node_internal_captureLargerStackTrace (VM2191 errors:477:5)
+    at __node_internal_uvExceptionWithHostPort (VM2191 errors:576:12)
+    at Server.setupListenHandle [as _listen2] (VM2293 node:net:1432:16)
+    at listenInCluster (VM2293 node:net:1480:12)
+    at doListen (VM2293 node:net:1629:7)
+    at process.processTicksAndRejections (VM2212 task_queues:84:21)
+__node_internal_captureLargerStackTrace @ VM2191 errors:477
+__node_internal_uvExceptionWithHostPort @ VM2191 errors:576
+setupListenHandle @ VM2293 node:net:1432
+listenInCluster @ VM2293 node:net:1480
+doListen @ VM2293 node:net:1629
+processTicksAndRejections @ VM2212 task_queues:84
+3ec345178a3bd5d85874.js:537 [RPCServer:IPC] Error: listen EADDRINUSE: address already in use \\?\pipe\discord-ipc-0
+(anonymous) @ 3ec345178a3bd5d85874.js:537
+r.<computed> @ 5c193e4366261ef233e1.js:10321
+(anonymous) @ 5c193e4366261ef233e1.js:5718
+error @ 5c193e4366261ef233e1.js:9979
+(anonymous) @ 8fdae675e4b2ddc870fa.js:1670
+invokeListener @ VM2855 C:\Users\jakem\AppData\Local\Discord\app-1.0.9017\modules\discord_rpc-1\discord_rpc\safeEmitter.js:42
+emit @ VM2855 C:\Users\jakem\AppData\Local\Discord\app-1.0.9017\modules\discord_rpc-1\discord_rpc\safeEmitter.js:61
+(anonymous) @ VM2854 C:\Users\jakem\AppData\Local\Discord\app-1.0.9017\modules\discord_rpc-1\discord_rpc\RPCIPC.js:103
+emit @ VM2203 node:events:513
+emitErrorNT @ VM2293 node:net:1459
+processTicksAndRejections @ VM2212 task_queues:83
+3ec345178a3bd5d85874.js:537 Error: Menu API only allows Items and groups of Items as children. Received function $l(e){return null} (object) instead
+    at 5c193e4366261ef233e1.js:2999:258
+    at Array.reduce (<anonymous>)
+    at So (5c193e4366261ef233e1.js:2998:14)
+    at No (5c193e4366261ef233e1.js:3002:142)
+    at eval (0BDFDB.plugin.js:2901:21)
+    at Sa (5c193e4366261ef233e1.js:1804:54)
+    at gu (5c193e4366261ef233e1.js:1858:146)
+    at Ic (5c193e4366261ef233e1.js:1851:89)
+    at mc (5c193e4366261ef233e1.js:1851:17)
+    at hc (5c193e4366261ef233e1.js:1850:867)
+    at uc (5c193e4366261ef233e1.js:1847:983)
+    at Fi (5c193e4366261ef233e1.js:1787:577)
+    at lc (5c193e4366261ef233e1.js:1848:498)
+    at 5c193e4366261ef233e1.js:1867:522
+    at el (5c193e4366261ef233e1.js:1867:561)
+    at t.render (5c193e4366261ef233e1.js:1871:205)
+    at MyReact.render (0BDFDB.plugin.js:2885:40)
+    at MyReact.hookCall (0BDFDB.plugin.js:2900:23)
+    at loadLibrary (0BDFDB.plugin.js:8019:60)
+    at parseData (0BDFDB.plugin.js:1175:24)
+    at parseCSS (0BDFDB.plugin.js:1137:122)
+    at requestLibraryData (0BDFDB.plugin.js:1180:51)
+    at eval (0BDFDB.plugin.js:1127:7)
+    at args.<computed> (0BDFDB.plugin.js:202:20)
+    at Function.<anonymous> (renderer.js:4:329975)
+(anonymous) @ 3ec345178a3bd5d85874.js:537
+r.<computed> @ 5c193e4366261ef233e1.js:10321
+(anonymous) @ renderer.js:4
+fs @ 5c193e4366261ef233e1.js:1812
+n.callback @ 5c193e4366261ef233e1.js:1813
+Bo @ 5c193e4366261ef233e1.js:1794
+Tu @ 5c193e4366261ef233e1.js:1843
+Iu @ 5c193e4366261ef233e1.js:1842
+yu @ 5c193e4366261ef233e1.js:1842
+(anonymous) @ 5c193e4366261ef233e1.js:1853
+Oc @ 5c193e4366261ef233e1.js:1854
+uc @ 5c193e4366261ef233e1.js:1848
+Fi @ 5c193e4366261ef233e1.js:1787
+lc @ 5c193e4366261ef233e1.js:1848
+(anonymous) @ 5c193e4366261ef233e1.js:1867
+el @ 5c193e4366261ef233e1.js:1867
+t.render @ 5c193e4366261ef233e1.js:1871
+MyReact.render @ 0BDFDB.plugin.js:2885
+MyReact.hookCall @ 0BDFDB.plugin.js:2900
+loadLibrary @ 0BDFDB.plugin.js:8019
+parseData @ 0BDFDB.plugin.js:1175
+parseCSS @ 0BDFDB.plugin.js:1137
+requestLibraryData @ 0BDFDB.plugin.js:1180
+eval @ 0BDFDB.plugin.js:1127
+args.<computed> @ 0BDFDB.plugin.js:202
+(anonymous) @ renderer.js:4
+(anonymous) @ VM2313 C:\Users\jakem\AppData\Roaming\BetterDiscord\data\betterdiscord.asar\preload.js:1
+emit @ VM2203 node:events:525
+endReadableNT @ VM2245 readable:1358
+processTicksAndRejections @ VM2212 task_queues:83
+3ec345178a3bd5d85874.js:592          GET https://discord.com/api/v9/users/@me/billing/premium-likelihood 404
+(anonymous) @ 3ec345178a3bd5d85874.js:592
+(anonymous) @ 3ec345178a3bd5d85874.js:540
+I._end @ 5c193e4366261ef233e1.js:2046
+I.end @ 5c193e4366261ef233e1.js:2045
+(anonymous) @ 5c193e4366261ef233e1.js:2050
+o.then @ 5c193e4366261ef233e1.js:2050
+m @ 5c193e4366261ef233e1.js:10160
+(anonymous) @ 5c193e4366261ef233e1.js:10162
+T @ 5c193e4366261ef233e1.js:10162
+(anonymous) @ 5c193e4366261ef233e1.js:7273
+(anonymous) @ 5c193e4366261ef233e1.js:7273
+(anonymous) @ 5c193e4366261ef233e1.js:7273
+p @ 5c193e4366261ef233e1.js:7271
+a @ 5c193e4366261ef233e1.js:7271
+(anonymous) @ 5c193e4366261ef233e1.js:7272
+(anonymous) @ 5c193e4366261ef233e1.js:7271
+I @ 5c193e4366261ef233e1.js:7273
+(anonymous) @ 5c193e4366261ef233e1.js:7274
+g @ 5c193e4366261ef233e1.js:7274
+(anonymous) @ 5c193e4366261ef233e1.js:7274
+ru @ 5c193e4366261ef233e1.js:1835
+vc @ 5c193e4366261ef233e1.js:1855
+(anonymous) @ 5c193e4366261ef233e1.js:1854
+Oc @ 5c193e4366261ef233e1.js:1854
+uc @ 5c193e4366261ef233e1.js:1848
+Fi @ 5c193e4366261ef233e1.js:1787
+(anonymous) @ 5c193e4366261ef233e1.js:1845
+3ec345178a3bd5d85874.js:592          GET https://discord.com/api/v9/users/@me/video-filters/assets 403
+(anonymous) @ 3ec345178a3bd5d85874.js:592
+(anonymous) @ 3ec345178a3bd5d85874.js:540
+I._end @ 5c193e4366261ef233e1.js:2046
+I.end @ 5c193e4366261ef233e1.js:2045
+(anonymous) @ 5c193e4366261ef233e1.js:2050
+o.then @ 5c193e4366261ef233e1.js:2050
+m @ 5c193e4366261ef233e1.js:10160
+(anonymous) @ 5c193e4366261ef233e1.js:10162
+T @ 5c193e4366261ef233e1.js:10162
+(anonymous) @ 5c193e4366261ef233e1.js:7941
+(anonymous) @ 5c193e4366261ef233e1.js:7941
+(anonymous) @ 5c193e4366261ef233e1.js:7941
+T @ 5c193e4366261ef233e1.js:7940
+a @ 5c193e4366261ef233e1.js:7940
+(anonymous) @ 5c193e4366261ef233e1.js:7940
+(anonymous) @ 5c193e4366261ef233e1.js:7940
+S @ 5c193e4366261ef233e1.js:7941
+g @ 5c193e4366261ef233e1.js:7941
+(anonymous) @ 8ffad5fef0606dd5813f.js:24
+ru @ 5c193e4366261ef233e1.js:1835
+vc @ 5c193e4366261ef233e1.js:1855
+(anonymous) @ 5c193e4366261ef233e1.js:1854
+Oc @ 5c193e4366261ef233e1.js:1854
+uc @ 5c193e4366261ef233e1.js:1848
+Fi @ 5c193e4366261ef233e1.js:1787
+(anonymous) @ 5c193e4366261ef233e1.js:1845
+5c193e4366261ef233e1.js:7940 Uncaught (in promise) {ok: false, headers: {…}, body: {…}, text: '{"message": "Missing Permissions", "code": 50013}', status: 403, …}
+T @ 5c193e4366261ef233e1.js:7940
+s @ 5c193e4366261ef233e1.js:7940
+Promise.then (async)
+T @ 5c193e4366261ef233e1.js:7940
+a @ 5c193e4366261ef233e1.js:7940
+(anonymous) @ 5c193e4366261ef233e1.js:7940
+(anonymous) @ 5c193e4366261ef233e1.js:7940
+S @ 5c193e4366261ef233e1.js:7941
+g @ 5c193e4366261ef233e1.js:7941
+(anonymous) @ 8ffad5fef0606dd5813f.js:24
+ru @ 5c193e4366261ef233e1.js:1835
+vc @ 5c193e4366261ef233e1.js:1855
+(anonymous) @ 5c193e4366261ef233e1.js:1854
+Oc @ 5c193e4366261ef233e1.js:1854
+uc @ 5c193e4366261ef233e1.js:1848
+Fi @ 5c193e4366261ef233e1.js:1787
+(anonymous) @ 5c193e4366261ef233e1.js:1845
